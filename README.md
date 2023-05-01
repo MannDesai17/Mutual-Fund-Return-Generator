@@ -26,7 +26,7 @@ To install PySpark and pandas, run the following commands:
 
 ## Running the Code
 
-The main code file is `final_mf_ai.ipynb`. This file contains the code for analyzing mutual fund data. To run this file, open it in Jupyter Notebook or Google Colab and execute the cells.
+The main code file is `final_mf_ai.py`. This file contains the code for analyzing mutual fund data. To run this file, open it in Jupyter Notebook or Google Colab and execute the cells.
 
 The code does the following:
 - Loads mutual fund data from a CSV file.
